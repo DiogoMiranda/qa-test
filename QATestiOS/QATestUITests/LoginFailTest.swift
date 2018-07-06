@@ -1,5 +1,4 @@
 //
-//  LoginError.swift
 //  QATestUITests
 //
 //  Created by Diogo Miranda on 7/4/18.
