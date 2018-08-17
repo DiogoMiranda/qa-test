@@ -1,2 +1,3 @@
 # qa-test
-Youse QA Test
+Instrumental test with Espresso and XCTest
+API test with HTTParty
